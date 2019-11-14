@@ -1,0 +1,3 @@
+﻿  tasksOptimization.cpp
+D:\Waterloo University\Optimization Problem\code\CookingScheduler\CookingScheduler\tasksOptimization.cpp(95,93): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  CookingScheduler.vcxproj -> D:\Waterloo University\Optimization Problem\code\CookingScheduler\CookingScheduler\Debug\CookingScheduler.exe
